@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Title</title>  
+        <style>
+            *{
+                background-color: rgb(red, green, blue);
+                color: rgb(1, 1, 1);
+                
+            }
+            
+            h1{
+                border: 1px sandybrown;
+            }
+            
+            .table1{
+                border: 2px lightblue;
+            }
+        </style>
+    </head>
+    <body>
+        <br>
+        <p>Deva</p>
+        <a href="" alt=""></a>
+        <img src="e:\KODAIKANAL\NATURE PICS\IMG_20230411_071644.jpg">
+        
+        
+        <button></button>
+        <label for="name">Enter name:</label>
+        <input type="text" class="name">
+        <input type="checkbox">
+        <input type="color">
+        <ol>
+            <li>Ordered List</li>
+        </ol>
+        <ul>
+            <li>Unordered List</li>
+        </ul>
+        
+        <br>
+        <table class="table1">
+            <tr>
+                <td><b>col1</b></td>
+                <td><b>col2</b></td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>2</td>
+            </tr>
+        </table>
+        
+        <form>
+            <label for="username"></label>
+            <input type="text" name="username">
+            <label for="userpassword"></label>
+            <input type="password" name="userpassword">
+            <button>submit</button>
+        </form>
+        <ul>
+            <li>tag based</li>
+            <li>class based</li>
+            <li>universal</li>
+        </ul>
+        <h1>Favorite Places</h1>
+        <ol>
+            <li>Erode</li>
+            <li>Tiruchengode</li>
+            <li>Kodaikanal</li>
+        </ol>
+        <script>
+            console.log("The introvert")
+        </script>
+    </body>
+</html>
